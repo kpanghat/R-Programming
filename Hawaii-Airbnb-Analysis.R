@@ -1,6 +1,5 @@
 
-#                                            IE 6200 SEC 06 GROUP 8 PROJECT
-#                                           US AIRBNB ANALYSIS (with BOSTON CASE STUDY)
+#                                           US AIRBNB ANALYSIS (with HAWAII CASE STUDY)
 #                                     -----------------------------------------------------
 
 
